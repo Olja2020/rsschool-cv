@@ -10,7 +10,6 @@
 * __GitHub:__ _Oksana Ivantsiv_
 ***
 
-
 ## __Briefly About Myself:__
 I am hard-working, diligent. I like the layout of websites. I want to become a sought-after programmer.
 ***
